@@ -3,19 +3,19 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.yourdomain.com/index.html</loc>
+    <loc>https://www.bloggerstand.blog/index.html</loc>
     <lastmod>2025-07-20</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/productivity.html</loc>
+    <loc>https://www.bloggerstand.blog/productivity.html</loc>
     <lastmod>2025-07-20</lastmod>
     <priority>0.90</priority>
   </url>
 
   <url>
-    <loc>https://www.yourdomain.com/creativity.html</loc>
+    <loc>https://www.bloggerstand.blog/creativity.html</loc>
     <lastmod>2025-07-20</lastmod>
     <priority>0.90</priority>
   </url>
